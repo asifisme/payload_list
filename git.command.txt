@@ -1,0 +1,14 @@
+git inti -- initialization all code in git 
+git status -- show current scenario 
+git add -A or git add --all -- add all file to 
+git reset -- that means to go before positions 
+git add . 
+git add * -- all go stage but only not deleted file 
+git commit -m "" -- after -m to write a message 
+git reset HARD~ -- back first positions 
+git branch -- show branch 
+git branch dev -- create a new branch that's name is dev 
+git checkout dev -- go pinter in dev branch 
+git merge main -m -- merge file dev 
+git merge dev -m -- merge file main
+git push origin main -- push remote code
